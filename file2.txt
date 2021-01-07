@@ -1,3 +1,6 @@
 moin
+<<<<<<< HEAD
 
 noch ein Test da
+=======
+>>>>>>> 71cbbdde759ecacfba85fbfc9274038468dd6bc8
